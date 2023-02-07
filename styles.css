@@ -1,0 +1,15 @@
+
+ h1 {
+    color: rgb(200, 67, 40);
+    margin-left: 60px;
+ }
+ .navbar {
+    color:blue
+ }
+ .mt-negativo {
+    margin-top:-4rem;
+ }
+ img {
+    object-fit: fill;
+    width: 100%;
+ } 
